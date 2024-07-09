@@ -56,9 +56,13 @@
     ├── package.json
     └── README.md
 
+   ```
+
 ## 🤝 Contributing
 
    Contributions, issues, and feature requests are welcome! Feel free to check [issues page]    (https://github.com/ashishgeorge-1/todo-app/issues).
+
+
 
 ## 📝 License
 
