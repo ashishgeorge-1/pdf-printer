@@ -44,10 +44,9 @@
    
    ```sh
     pdf-printer-app/
-    ├── src/
-    │   ├── index.html
-    │   ├── renderer.js
-    │   └── styles.css
+    ├── index.html
+    ├── renderer.js
+    └── styles.css
     ├── main.js
     ├── package.json
     └── README.md
