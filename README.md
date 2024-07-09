@@ -45,6 +45,8 @@
    git clone https://github.com/your-username/pdf-printer-app.git
    cd pdf-printer-app
 
+   ```
+
 1. Clone the repository
    ```sh
     pdf-printer-app/
@@ -60,7 +62,7 @@
 
 ## 🤝 Contributing
 
-   Contributions, issues, and feature requests are welcome! Feel free to check [issues page]    (https://github.com/ashishgeorge-1/todo-app/issues).
+  Contributions, issues, and feature requests are welcome! Feel free to       check [issues page](https://github.com/ashishgeorge-1/todo-app/issues).
 
 
 
