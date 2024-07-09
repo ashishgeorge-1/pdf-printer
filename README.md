@@ -40,12 +40,6 @@
    ```sh
    npm run dev
 
-5. For cloning repository:
-   ```sh
-   git clone https://github.com/your-username/pdf-printer-app.git
-   cd pdf-printer-app
-   ```
-
 ## 📁 Project Structure
    
    ```sh
