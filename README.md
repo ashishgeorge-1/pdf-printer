@@ -5,7 +5,7 @@
 ## ✨ Features
    - 🖨️ Print local PDF files with ease
    - 🌐 Fetch and print PDFs directly from URLs
-   - 🎨 Customize printing options (color, orientation, copies, etc.)
+   - 🎨 Customize printing options (colour, orientation, copies, etc.)
    - 📱 Drag-and-drop functionality for easy file selection
    - 🖥️ Cross-platform compatibility (Windows, macOS, Linux)
    - 🌙 Sleek dark theme for comfortable use
@@ -40,14 +40,14 @@
    ```sh
    npm run dev
 
-## 📁 Project Structure
+5. For cloning repository:
    ```sh
    git clone https://github.com/your-username/pdf-printer-app.git
    cd pdf-printer-app
-
    ```
 
-1. Clone the repository
+## 📁 Project Structure
+   
    ```sh
     pdf-printer-app/
     ├── src/
