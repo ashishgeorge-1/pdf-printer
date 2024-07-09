@@ -1,14 +1,20 @@
-# ✅ PDF Printer App
+# 🖨️ PDF Printer App
    A powerful, user-friendly Electron application for printing PDFs. Print local 
    files or fetch PDFs from URLs with customizable printing options!
 
 ## ✨ Features
-   - 🖨️ Print local PDF files with ease
-   - 🌐 Fetch and print PDFs directly from URLs
-   - 🎨 Customize printing options (colour, orientation, copies, etc.)
-   - 📱 Drag-and-drop functionality for easy file selection
-   - 🖥️ Cross-platform compatibility (Windows, macOS, Linux)
-   - 🌙 Sleek dark theme for comfortable use
+
+- 🖱️ **Drag and Drop**: Easily drag and drop PDF files into the application.
+- 📂 **File Selection**: Choose PDF files from your local system using a file dialog.
+- 🌐 **URL Support**: Print PDFs directly from URLs.
+- 🎛️ **Advanced Printing Options**:
+  - 🖨️ Printer selection
+  - 🎨 Color/Monochrome printing
+  - 📄 Page Orientation
+  - 🔢 Number of copies
+  - 📑 Page range selection
+  - 📘 Duplex printing (single-sided, double-sided long edge, double-sided short edge)
+- 🎨 **Modern UI**: Sleek dark mode interface with intuitive controls.
 
 ## 🛠️ Technologies Used
 ### Core:
