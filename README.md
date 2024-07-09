@@ -19,8 +19,5 @@ An elegant and powerful Electron application for printing PDF files with advance
 ## 🚀 Installation
 
 1. Clone the repository:
-
-  '''
-  git clone https://github.com/yourusername/electron-pdf-printer.git
-  
-  '''
+   ```sh
+   git clone https://github.com/yourusername/electron-pdf-printer.git
